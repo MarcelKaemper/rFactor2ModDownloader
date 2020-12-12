@@ -15,3 +15,9 @@ The default Paths I've added to both, the linux and windows script, refer to a h
 ![Screenshot: Hierarchy](https://i.imgur.com/jgOwgyE.png)
 
 Feel free to modify the Scripts to match your needs.
+
+
+
+Ideas:  
+- Asking for the paths on first launch
+- Downloading lists of mods via textfiles that contain ids/urls
